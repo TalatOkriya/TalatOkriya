@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align=center>
   
-![Web Developer](./image/Talat-Mahmud.jpg)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align=center>
 
@@ -19,7 +19,7 @@
 
 #### Web Developer | Software Engineer
 
-Hi, its me Talat. I am Software Engineer | MERN STACK DEVELOPER. wanna join a company where I can explore myself more through the opportunities of working and attaining experience.
+Hi, its me Talat. I am Software Engineer | MERN STACK DEVELOPER.
 
 ## 🚀 Skills:
 
@@ -108,7 +108,7 @@ Hi, its me Talat. I am Software Engineer | MERN STACK DEVELOPER. wanna join a co
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=TalatOkriya&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=TalatOkriya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 
